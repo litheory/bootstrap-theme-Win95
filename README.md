@@ -6,6 +6,10 @@ The goal of this project is to create a Bootstrap theme that has the look and fe
 
 - Bootstrap v3.3.0 (http://getbootstrap.com)
 
+## Demo
+
+Demo see the [demo.html](https://lnaif.github.io/bootstrap-theme-Win95/demo.html)
+
 ## Use
 
 - Clone this repo
@@ -22,10 +26,6 @@ The goal of this project is to create a Bootstrap theme that has the look and fe
   <!-- Custom styles for this template -->
   <link rel="stylesheet" type="text/css" href="bootstrap-theme-win95.css">
   ```
-
-## Demo
-
-Demo see the [demo.html](https://lnaif.github.io/bootstrap-theme-Win95/demo.html)
 
 ## LICENSE
 
