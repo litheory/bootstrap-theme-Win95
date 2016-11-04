@@ -340,7 +340,6 @@ table{
   font-weight: 400;
   background-color: #000;
   border-radius: 0;
-  box-shadow: -1px -1px 0 1px #000, 1px 1px 0 1px #fff;
   border-top: 2px solid rgb(128,128,128);
   border-left: 2px solid rgb(128,128,128);
   border-right: 2px solid rgb(211,211,211);
