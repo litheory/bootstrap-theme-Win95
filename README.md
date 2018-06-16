@@ -8,7 +8,7 @@ The goal of this project is to create a Bootstrap theme that has the look and fe
 
 ## Demo
 
-Demo see the [demo.html](https://lnaif.github.io/bootstrap-theme-Win95/demo.html)
+Demo see the [demo.html](https://liyuanzi.github.io/bootstrap-theme-Win95/demo.html)
 
 ## Use
 
