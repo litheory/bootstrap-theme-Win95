@@ -8,8 +8,13 @@ The goal of this project is to create a Bootstrap theme that has the look and fe
 
 ## Demo
 
-Demo see the [demo.html](https://liyuanzi.github.io/bootstrap-theme-Win95/demo.html)
-
+See [demo.html](https://litheory.github.io/bootstrap-theme-Win95/demo.html)
+![demo1](https://github.com/litheory/bootstrap-theme-Win95/blob/master/psb.jfif)
+![demo2](https://github.com/litheory/bootstrap-theme-Win95/blob/master/psb%20(1).jfif)
+![demo3](https://github.com/litheory/bootstrap-theme-Win95/blob/master/psb%20(2).jfif)
+![demo4](https://github.com/litheory/bootstrap-theme-Win95/blob/master/psb%20(3).jfif)
+![demo5](https://github.com/litheory/bootstrap-theme-Win95/blob/master/psb%20(4).jfif)
+![demo6](https://github.com/litheory/bootstrap-theme-Win95/blob/master/psb%20(5).jfif)
 ## Use
 
 - Clone this repo
