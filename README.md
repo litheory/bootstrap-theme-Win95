@@ -9,12 +9,19 @@ The goal of this project is to create a Bootstrap theme that has the look and fe
 ## Demo
 
 See [demo.html](https://litheory.github.io/bootstrap-theme-Win95/demo.html)
+
 ![demo1](https://github.com/litheory/bootstrap-theme-Win95/blob/master/demo1.png)
+
 ![demo2](https://github.com/litheory/bootstrap-theme-Win95/blob/master/demo2.png)
+
 ![demo3](https://github.com/litheory/bootstrap-theme-Win95/blob/master/demo3.png)
+
 ![demo4](https://github.com/litheory/bootstrap-theme-Win95/blob/master/demo4.png)
+
 ![demo5](https://github.com/litheory/bootstrap-theme-Win95/blob/master/demo5.png)
+
 ![demo6](https://github.com/litheory/bootstrap-theme-Win95/blob/master/demo6.png)
+
 ## Use
 
 - Clone this repo
